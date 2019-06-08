@@ -1,0 +1,7 @@
+Install-Package OxyPlot.WindowsForms -Version 1.0.0
+
+Install-Package OxyPlot.Core -Version 1.0.0
+
+Install-Package MathNet.Symbolics -Version 0.20.0
+
+Install-Package MathNet.Numerics -Version 4.7.0
